@@ -51,7 +51,7 @@ useEffect(() => {
              temp={temp}
           />
         )
-      }      
+      }    
     </div>
   )
 }
